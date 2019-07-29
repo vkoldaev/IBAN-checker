@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-# All data has been taken frof Wiki: https://en.wikipedia.org/wiki/International_Bank_Account_Number
+# All data has been taken from Wiki: https://en.wikipedia.org/wiki/International_Bank_Account_Number
 # Actual date: 2019.07.15
 
 COUNTRIES_ALPHA2 = {
